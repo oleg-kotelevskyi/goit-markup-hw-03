@@ -243,7 +243,6 @@ img {
 
 .portfolio-container {
   width: 360px;
-  height: 120px;
   border-bottom: 1px solid #e7e9fc;
   border-left: 1px solid #e7e9fc;
   border-right: 1px solid #e7e9fc;
@@ -265,7 +264,6 @@ img {
 }
 .portfolio-item {
   width: 360px;
-  height: 420px;
   display: grid;
 }
 .portfolio-subtitle {
@@ -291,8 +289,8 @@ img {
 }
 .footer-link {
   width: 115px;
-  height: 24px;
   display: inline-block;
+  margin-bottom: 16px;
 }
 .part-three {
   font-family: "Raleway", sans-serif;
@@ -302,7 +300,6 @@ img {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-  padding-bottom: 16px;
 }
 .part-four {
   font-family: "Raleway", sans-serif;
@@ -312,7 +309,6 @@ img {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #f4f4fd;
-  padding-bottom: 16px;
 }
 .footer-text {
   font-size: 16px;
@@ -320,6 +316,3 @@ img {
   letter-spacing: 0.02em;
   color: #f4f4fd;
   max-width: 264px;
-  height: 72px;
-  padding-top: 16px;
-}
